@@ -1,5 +1,6 @@
 body {
   background-color: #F2F7FF;
+  line-height: 2;
 }
 
 h1 {
@@ -8,6 +9,7 @@ h1 {
 
 h3 {
   color: #0B409C;
+  text-align: center;
 }
 
 hr {
@@ -15,5 +17,32 @@ hr {
   border-top-style: dotted;
   border-color: #FDBE34;
   border-width: 5px;
+  margin: 50px auto;
   width: 4%;
+}
+
+table {
+  margin: 20px auto;
+  width: 60%;
+}
+
+.header {
+  width: auto;
+}
+
+.date {
+  text-align: center;
+}
+
+.employment {
+  text-align: center;
+}
+
+.activities {
+  margin: auto;
+  width: 60%;
+}
+
+.contact {
+  text-align: center;
 }
