@@ -6,7 +6,7 @@ a {
 }
 
 a:hover {
-  color: #EAF6F62345670-35
+  color: #10316B;
 }
 
 body {
@@ -20,7 +20,7 @@ h1 {
   color: #FDBE34;
   background-color: #10316B;
   font-family: 'Poppins', sans-serif;
-  font-size: 2.5rem;
+  font-size: 40px;
   margin: auto;
   border: solid;
   display: inline-block;
@@ -203,6 +203,7 @@ table {
   background-image: -o-linear-gradient(top, #fed048, #ebba18);
   background-image: linear-gradient(to bottom, #fed048, #ebba18);
   text-decoration: none;
+  color: #10316B;
 }
 
 .bottom-container {
